@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Age-Predictor/static/css/main.d6027bb6.css",
+    "main.css": "/Age-Predictor/static/css/main.bfffc99a.css",
     "main.js": "/Age-Predictor/static/js/main.a3fca28b.js",
     "static/media/agePre.png": "/Age-Predictor/static/media/agePre.760752bd33b068131a02.png",
     "index.html": "/Age-Predictor/index.html",
-    "main.d6027bb6.css.map": "/Age-Predictor/static/css/main.d6027bb6.css.map",
+    "main.bfffc99a.css.map": "/Age-Predictor/static/css/main.bfffc99a.css.map",
     "main.a3fca28b.js.map": "/Age-Predictor/static/js/main.a3fca28b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6027bb6.css",
+    "static/css/main.bfffc99a.css",
     "static/js/main.a3fca28b.js"
   ]
 }
