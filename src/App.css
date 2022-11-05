@@ -71,7 +71,8 @@ body {
 
 @media (max-width:580px) {
   .App {
-    margin: 1rem;
+    width: 80vw;
+    margin: 1rem auto;
   }
 
   .inputDiv {
