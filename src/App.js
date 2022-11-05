@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <div className='head'>
-        <h1>Age Prediction</h1>
+        <h1>Age Predictor</h1>
         <p>Enter a name of a person to predict the age</p>
       </div>
 
